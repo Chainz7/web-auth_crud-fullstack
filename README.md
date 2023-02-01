@@ -1,5 +1,3 @@
-## #17 Self Project - Reactjs, Laravel, MySql & API
-
 ## Learn in React
 
 - React Hooks
@@ -17,3 +15,5 @@
 - CRUD API Endpoints
 - Login & Registration API Endpoints
 - Deploy App on Production Environment
+
+## Preview
